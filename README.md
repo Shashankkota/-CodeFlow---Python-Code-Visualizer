@@ -115,8 +115,3 @@ Ctrl + C
 
 
 
-This project is licensed under the MIT License.
-
----
-
-Would you like me to refactor or modularize the Python code too? Let me know if you need it split into multiple files (like `editor.py`, `engine.py`, etc.) or cleaned up for distribution.
